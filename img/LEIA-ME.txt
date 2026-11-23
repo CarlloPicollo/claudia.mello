@@ -1,0 +1,3 @@
+Coloque aqui as fotos reais.
+Na pagina inicial, troque cada <div class="foto f1|f2|f3"></div> por <img src="img/foto-1.jpg" alt="descricao">
+dentro da mesma div. Certificados: guarde as imagens em img/certificados/ e use o mesmo metodo na pagina certificados.html.
